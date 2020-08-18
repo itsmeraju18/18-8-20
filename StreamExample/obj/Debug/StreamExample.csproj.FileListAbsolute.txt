@@ -1,0 +1,7 @@
+C:\Users\Reddy Shekhar\source\repos\StreamExample\bin\Debug\StreamExample.exe.config
+C:\Users\Reddy Shekhar\source\repos\StreamExample\bin\Debug\StreamExample.exe
+C:\Users\Reddy Shekhar\source\repos\StreamExample\bin\Debug\StreamExample.pdb
+C:\Users\Reddy Shekhar\source\repos\StreamExample\obj\Debug\StreamExample.csprojAssemblyReference.cache
+C:\Users\Reddy Shekhar\source\repos\StreamExample\obj\Debug\StreamExample.csproj.CoreCompileInputs.cache
+C:\Users\Reddy Shekhar\source\repos\StreamExample\obj\Debug\StreamExample.exe
+C:\Users\Reddy Shekhar\source\repos\StreamExample\obj\Debug\StreamExample.pdb

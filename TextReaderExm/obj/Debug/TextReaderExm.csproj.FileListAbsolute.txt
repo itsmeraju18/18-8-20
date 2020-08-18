@@ -1,0 +1,7 @@
+C:\Users\Reddy Shekhar\source\repos\TextReaderExm\bin\Debug\TextReaderExm.exe.config
+C:\Users\Reddy Shekhar\source\repos\TextReaderExm\bin\Debug\TextReaderExm.exe
+C:\Users\Reddy Shekhar\source\repos\TextReaderExm\bin\Debug\TextReaderExm.pdb
+C:\Users\Reddy Shekhar\source\repos\TextReaderExm\obj\Debug\TextReaderExm.csprojAssemblyReference.cache
+C:\Users\Reddy Shekhar\source\repos\TextReaderExm\obj\Debug\TextReaderExm.csproj.CoreCompileInputs.cache
+C:\Users\Reddy Shekhar\source\repos\TextReaderExm\obj\Debug\TextReaderExm.exe
+C:\Users\Reddy Shekhar\source\repos\TextReaderExm\obj\Debug\TextReaderExm.pdb
